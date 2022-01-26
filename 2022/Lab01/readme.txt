@@ -1,1 +1,1 @@
-ss
+Este Laboratorio se ha hecho únicamente con la aplicación BlueJ, la cual permite crear objetos y visualizarlos, con el objetivo de tener una visión más amplia y ver que es lo que se está haciendo en todo momnento. Perfecta para principiantes que están aprendiendo a usar Java
