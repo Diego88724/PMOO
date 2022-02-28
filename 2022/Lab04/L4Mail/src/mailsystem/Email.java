@@ -1,7 +1,7 @@
 package mailsystem;
 
 /**
- * Clase que trata la infofrmaciÛn de los emails
+ * Clase que trata la informaci√≥n de los emails
  * @author Diego Fernandez
  * 
  *
@@ -16,7 +16,7 @@ public class Email {
 	private String text;
 	
 	/**
-	 * Constructora que recibe un par·metro por cada atributo de la clase
+	 * Constructora que recibe un par√°metro por cada atributo de la clase
 	 * @param sender, mail sender
 	 * @param receiver, mail receiver
 	 * @param subject, mail subject
@@ -31,7 +31,7 @@ public class Email {
 	
 	
 	/**
-	 * Constructora que recibe como par·metros otros atributos, dejando el texto en blanco
+	 * Constructora que recibe como par√°metros otros atributos, dejando el texto en blanco
 	 * @param sender, mail sender
 	 * @param receiver, mail receiver
 	 * @param subject, mail subject
