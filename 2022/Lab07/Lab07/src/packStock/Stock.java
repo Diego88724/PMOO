@@ -25,8 +25,8 @@ public class Stock {
 
 	
 	/**
-	 * metodo que dado un producto lo añade a la lista
-	 * @param prod, proucto a añadir
+	 * metodo que dado un producto lo aÃ±ade a la lista
+	 * @param prod, proucto a aÃ±adir
 	 */
 	public boolean addProduct(Product prod) {
 		
@@ -96,7 +96,7 @@ public class Stock {
 			if (prod.getClass().getSimpleName().equals(tipo)) {
 				cont++;
 			}
-			//if (prod.equals(tipo)) ¿?
+			//if (prod.equals(tipo)) Â¿?
 
 		}
 		return cont;
@@ -119,7 +119,7 @@ public class Stock {
 	
 	/**
 	 * metodo que de dado un motivo debe de decidir si se puede eliminar de la lista
-	 * @param motivo, motivo para su eliminación
+	 * @param motivo, motivo para su eliminaciÃ³n
 	 * @return, true si se elimina, false en caso contrario
 	 */
 	public boolean itemsToRemove(String motivo) {
@@ -153,6 +153,7 @@ public class Stock {
 	 */
 	public String printPerishable() {	
 		
+		//VOID
 //		for (Product pere: productList) {
 //			if (pere.getClass().getSimpleName().equals("Perecederos")) {
 //				System.out.println(pere.toString());
