@@ -28,7 +28,7 @@ public class workingWithNumbers {
 	public void evenValues(int valor) { 		
 		
 		int cont=0;
-		int res;
+		//int res;
 		for (int i=1; i <= valor; i++) {
 			
 			if (i % 2 == 0) {
