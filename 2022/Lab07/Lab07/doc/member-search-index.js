@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"packSuper","c":"SuperOnline","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"packSuper","c":"SuperOnline","l":"SuperOnline()","u":"%3Cinit%3E()"}];updateSearchResults();
