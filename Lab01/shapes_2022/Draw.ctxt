@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Draw
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Draw\ here.\r\n\ \r\n\ @author\ Diego\ Fernandez\ \r\n\ @version\ 26/01/22\r\n
+comment1.params=
+comment1.target=void\ triangleMiddle()
+comment1.text=\r\n\ Write\ instructions\ for\ exercise\ 6b\r\n
+comment2.params=
+comment2.target=void\ squareCorner()
+comment2.text=\r\n\ Write\ instructions\ for\ exercise\ 6e\r\n
+numComments=3
