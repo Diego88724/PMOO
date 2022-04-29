@@ -15,8 +15,7 @@ public class SuperOnline {
 	public static void main(String[] args) {
 		
 		SuperOnline m = new SuperOnline();
-		//Scanner scanner = new Scanner(System.in);
-		int n;//scanner.nextInt();
+		
 		loadProducts();
 		m.menu();
 
@@ -60,13 +59,6 @@ public class SuperOnline {
 				System.out.println(mStock.printPerishable());
 				System.out.println();
 				break;
-			case 5:
-				System.out.println("Introduce una ID valida: ");
-				n = sc.nextInt();
-				readProductCode(n);
-				System.out.println();
-			
-			
 			
 			}
 			
@@ -101,12 +93,11 @@ public class SuperOnline {
 					+ "TECLA 1 = informacion de los productos\n"
 					+ "TECLA 2 = obtener el producto dandole una id valida\n"
 					+ "TECLA 3 = borrar un producto indicandole su id\n"
-					+ "TECLA 4 = lista de los productos enviables\n"
-					+ "TECLA 5 = informacion de un producto dandole una id valida";	
+					+ "TECLA 4 = lista de los productos enviables\n";	
 			
 			System.out.println(opciones);
 			System.out.println();
-			System.out.println("Teclee una opción: ");
+			System.out.println("Teclee una opciÃ³n: ");
 			
 			
 			
