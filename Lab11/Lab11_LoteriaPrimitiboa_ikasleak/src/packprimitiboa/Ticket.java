@@ -122,7 +122,7 @@ public class Ticket {
     	Scanner sc = new Scanner(new FileReader(n));
     	String s;
     	while (sc.hasNext()) {
-    		s = sc.next();
+    		s = sc.nextLine();
     		System.out.println(s);
     	}
     	
