@@ -2,6 +2,11 @@ package packcheck;
 
 import packfeed.*;
 
+/**
+ * Clase para probar el funcionamiento de la clase Drink y sus clases hijas
+ * @author Diego Fernandez
+ *
+ */
 public class DrinkCheck {
 
 	public static void main(String[] args) {
